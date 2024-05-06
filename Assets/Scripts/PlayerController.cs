@@ -28,6 +28,7 @@ public class PlayerController : MonoBehaviour
     }
 
     private void PlayerInput() {
+        
         movement = playerControls.Movement.Move.ReadValue<Vector2>();
     }
 
