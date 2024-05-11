@@ -137,190 +137,22 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: blue_tb_0
+      name: Custom Border
       rect:
         serializedVersion: 2
-        x: 0
-        y: 108
-        width: 16
-        height: 16
+        x: 2
+        y: 2
+        width: 136
+        height: 120
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 84ece64250763e970800000000000000
-      internalID: 8782976970086338120
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: blue_tb_1
-      rect:
-        serializedVersion: 2
-        x: 125
-        y: 108
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 563333367a9701c80800000000000000
-      internalID: -8354043548941470875
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: blue_tb_2
-      rect:
-        serializedVersion: 2
-        x: 89
-        y: 108
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 97f696f7a65800950800000000000000
-      internalID: 6413272561826230137
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: blue_tb_3
-      rect:
-        serializedVersion: 2
-        x: 125
-        y: 66
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ef713c76c95190c60800000000000000
-      internalID: 7784777192386533374
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: blue_tb_4
-      rect:
-        serializedVersion: 2
-        x: 125
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c11ca76b9a0c709a0800000000000000
-      internalID: -6266828521319251684
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: blue_tb_5
-      rect:
-        serializedVersion: 2
-        x: 87
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 40, y: 40, z: 40, w: 40}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
       spriteID: ee91be1ab0927bb80800000000000000
       internalID: -8379183451761600018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: blue_tb_6
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 790ed5483c9df24b0800000000000000
-      internalID: -5462908389214527337
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: blue_tb_7
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 38
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 98921158ff4be64c0800000000000000
-      internalID: -4292294385295349367
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: blue_tb_8
-      rect:
-        serializedVersion: 2
-        x: 51
-        y: 49
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2ec1e8e62a19db360800000000000000
-      internalID: 7187060707178716386
       vertices: []
       indices: 
       edges: []
@@ -336,12 +168,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+      Custom Border: -8379183451761600018
       blue_tb_0: 8782976970086338120
       blue_tb_1: -8354043548941470875
       blue_tb_2: 6413272561826230137
       blue_tb_3: 7784777192386533374
       blue_tb_4: -6266828521319251684
-      blue_tb_5: -8379183451761600018
       blue_tb_6: -5462908389214527337
       blue_tb_7: -4292294385295349367
       blue_tb_8: 7187060707178716386
